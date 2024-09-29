@@ -8,6 +8,7 @@ This project focuses on analyzing customer churn in a telecommunications company
 <H2><b>Features:</b></H2>
 
 <H3><b>Data Loading:</b></H3>
+
 - Loaded the customer churn dataset for analysis.
 
 <H3><b>Data Exploration:</b></H3>
